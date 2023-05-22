@@ -1,0 +1,75 @@
+emmet abreviation
+
+
+syntax
+=======
+
+btn.btn*7{ random text}
+--------------------------------------------
+<body>
+    <h1>Hello world</h1>
+    //inline javascript
+    <h2>Welcome to javascript course</h2>
+    <button onclick="alert('Hello javascript')">click me</button>
+    <!-- emmet  for genefrating multiple buttons-->
+    <button class="btn">random button</button
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button('    ><button class="btn">random button</button')
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button
+    ><button class="btn">random button</button>
+
+    <script src="./app.js">
+      //reading every button and fire event
+      //internal javascript
+      // document.querySelectorAll(".btn").forEach((item) => {
+      //   item.addEventListener("click", () => {
+      //     alert("click here for good to go");
+      //   });
+      // });
+    </script>
+    </body>
+    ============================================================================
+
+==================================================================
+
+
+statements and comments
+==========================
+-> single line comments
+-> multiline comments
+
+VARIABLES
+==========================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
